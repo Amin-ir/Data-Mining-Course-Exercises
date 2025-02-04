@@ -34,7 +34,6 @@ These notebooks are not production-ready and are intended solely for educational
    ```bash
    pip install -r requirements.txt
    ```
-   (*Include a `requirements.txt` file if libraries like NumPy or Matplotlib are used.*)
 3. Open the notebooks using Jupyter:
    ```bash
    jupyter notebook
